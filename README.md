@@ -10,7 +10,7 @@
 - 🌐 Me gusta trabajar con protocolos de enrutamiento (OSPF, EIGRP) en equipo Cisco real (ISR4331, switches 3560 L3). Busco seguir aprendiendo de redes.
 - 💻 También desarrollo aplicaciones web full-stack, sobre todo con Node.js y Python (FastAPI) en el backend y MySQL como base de datos.
 - 🤖 Desarrollo asistido por IA: integro LLM's en mi flujo de trabajo para debugging, documentación y prototipado rápido.
-- 🗣️ Inglés nivel avanzado-alto fluido (speaking, listening, writing y reading).
+- 🗣️ Inglés fluido nivel avanzado-alto (speaking, listening, writing y reading).
 
 ### <img src="https://flagcdn.com/20x15/gb.png" width="20" height="15"> About me
 
